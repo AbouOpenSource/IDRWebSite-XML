@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<page>
+	<entete>
+    <titre>Institut de developpement rural</titre>
+    <lien type="stylesheet">style.css</lien>
+    <lien type="icon">img/core-img/favicon.ico</lien>
+    </entete>
+    <corps>
+    	
+    		<!-- <division classification="preloader d-flex align-items-center justify-content-center">
+    			<division classification="spinner"></division>
+    		</division>
+ -->
+    		<tete classification="header-area">
+    		
+
+            	<division classification="top-header-area">
+    				<division classification="container">
+	    				<division classification="row">
+		    				<division classification="col-12">
+		    					<division classification="top-header-content d-flex align-items-center justify-content-between">
+		    						<division classification="top-header-meta">
+		    							<paragraphe>Welcome to <emphase>Farmie</emphase>, we hope you will enjoy our products and have good experience</paragraphe>
+		    							<division classification="top-header-meta text-right">
+		    							<adress><icon type="fa fa-envelope-o" aria-hidden="true" ></icon><emphase>Email: idr@univ-bobo.bf</emphase></adress>
+		    							<adress><icon type="fa fa-phone" aria-hidden="true"></icon><emphase>+226 20 97 55 10</emphase></adress>
+		    							<adress></adress>
+		    							</division>			
+		    						</division>		
+		    					</division>			
+		    				</division>	
+	    				</division>	
+    				</division>
+    			</division>
+    		    <division classification="famie-main-menu">
+                    <division classification="classy-nav-container breakpoint-off">
+                        <division classification="container">
+                            <bar classification="classy-navbar justify-content-between" identification="famieNav">
+                                <adresse href="index.xml" classification="nav-brand"><!-- <image src="img/core-img/logo.png" alt=""/> -->IDR</adresse>
+                                <division classification="classy-navbar-toggler">
+                                    <emphase classification=""></emphase>
+                                </division>
+                                <division classification="classy-menu">
+                                    <division classification="classycloseIcon">
+                                        <division classification="cross-wrap">
+                                            <emphase classification="top"></emphase>
+                                            <emphase classification="bottom"></emphase>
+                                        </division>
+                                    </division>
+                                    <division classification="classynav">
+                                    <lu>
+                                        <il >
+                                            <adresse href="index.xml">Accueil</adresse>
+                                        </il>                                        
+                                        <il classification="active">
+                                            <adresse href="enseignants.xml">Les enseignants</adresse>
+                                        </il>
+                                        <il>
+                                            <adresse href="filieres.xml">Nos filieres</adresse>
+                                        </il>
+                                       
+                                        <il>
+                                            <adresse href="contact.xml">Nous Concatez</adresse>
+                                        </il>
+                                        
+                                    </lu>                                        
+                                    <division identification="searchIcon"><icon classification="icon_search"></icon></division>
+                                    </division>
+                                </division>
+                            </bar>
+                        <division classification="search-form">
+                            <formulaire action="#" methode="POST">
+                                <entree type="search" name="search" identification="search" placeholder="Tapez les mots à chercher"></entree>
+                            </formulaire>
+                        
+                            <division classification="closeIcon"><icon classification="fa fa-times"></icon></division>
+                        </division>
+                        </division>
+                    </division>
+                </division>
+            </tete>
+      <partie classification="team-member-area section-padding-100-0">
+                <division classification="container">
+                    <division classification="row">
+                        <division classification="col-12">
+                            
+
+
+                            <division classification="section*heading text-center">
+                                <paragraphe>L'administration</paragraphe>
+                                <titre2>Les experts en matiere d'agriculture</titre2>
+                                  <image src="img/core-img/decor2.png" alt=""/>
+                            </division>
+
+                            <division classification="row">
+                                
+
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/47.jpeg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>SANOU Abou Dramane</titre5>
+              <titre6>Directeur</titre6>
+            </division>
+                                </division>
+                            
+
+                           
+
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/25.png" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>SANOU Anna Salimata</titre5>
+              <titre6>Directeur adjoint</titre6>
+            </division>
+                                </division>
+
+
+
+<division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>KANE Mah</titre5>
+              <titre6>Responsable des stages</titre6>
+            </division>
+                                </division>
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>Ouedraogo Josué</titre5>
+              <titre6>Coordinateur IDR</titre6>
+            </division>
+                                </division>
+
+
+                            </division>
+
+
+
+                        </division>
+                    </division>
+                    
+                </division>
+            </partie>
+            
+
+
+
+
+
+
+
+
+
+                  <partie classification="team-member-area section-padding-100-0">
+                <division classification="container">
+                    <division classification="row">
+                        <division classification="col-12">
+                            
+
+
+                            <division classification="section*heading text-center">
+                                <paragraphe>Le Coprs profesoral</paragraphe>
+                                <titre2>Les experts en matiere d'agriculture</titre2>
+                                  <image src="img/core-img/decor2.png" alt=""/>
+                            </division>
+
+                            <division classification="row">
+                                
+
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>Carlos Bacca</titre5>
+              <titre6>Directeur</titre6>
+            </division>
+                                </division>
+                            
+
+                           
+
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>Carlos Bacca</titre5>
+              <titre6>Directeur adjoint</titre6>
+            </division>
+                                </division>
+
+
+
+<division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>Carlos Bacca</titre5>
+              <titre6>Responsable des stages</titre6>
+            </division>
+                                </division>
+
+                                <division classification="col-12 col-sm-6 col-lg-3">
+                                    <divisiondelay classification="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                       
+
+                                        <division classification="team-img">
+              <image src="img/bg-img/20.jpg" alt=""/>
+              <!-- Social Info -->
+         <division classification="team-social-info">
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><icon classification="fa fa-facebook"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><icon classification="fa fa-twitter"></icon></add>
+    <add href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><icon classification="fa fa-pinterest"></icon></add>
+              </division>
+            </division>
+                                    </divisiondelay>
+                                
+                                    <division class="team-member-info">
+              <titre5>Carlos Bacca</titre5>
+              <titre6>Coordinateur IDR</titre6>
+            </division>
+                                </division>
+
+
+                            </division>
+
+
+
+                        </division>
+                    </division>
+                    
+                </division>
+            </partie>
+
+
+
+
+<!-- 
+
+            <partie classification="famie-benefits-area section-padding-100-0 pb-5">
+                <division classification="container">
+                
+
+
+                    <division classification="row">
+                        <division classification="col-12">
+                            <division classification="benefits-thumbnail mb-50">
+                                <image src="img/bg-img/43.jpg"/>
+                            </division>
+                        </division>
+                    </division>
+                
+                    <division classification="row justify-content-center">
+                    
+                        <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/windmill.png" alt=""/>
+                                <titre5>Elevage</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                        <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/digger.png" alt=""/>
+                                <titre5>Elevage</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/cereals.png" alt=""/>
+                                <titre5>Elevage</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/tractor.png" alt=""/>
+                                <titre5>Elevage</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    </division>
+
+
+
+                </division>
+            </partie>
+
+ -->
+ 
+            <partie classification="about-us-area">
+                <division classification="container">
+                    <division classification="row align-items-center">
+                        <division classification="col-12 col-md-8">
+                            <division classification="about-us-content mb-100">
+                                <division classification="section-heading">
+                                    <paragraphe>Les enseigants-chercheurs</paragraphe>
+                                    <titre2><emphase>IDR</emphase></titre2>
+                                    <image src="img/core-img/decor.png" alt=""/>
+                                    
+                                </division>
+                                <paragraphe>Le corps professoral de l'IDR fédère un ensemble d’expertises qui le placent au rang des principales instituts burkinabés.
+
+La richesse du corps professoral tient à sa diversité. Il lie recherche et pédagogie, implication dans le management de programmes et des partenariats internationaux, expertise académique et relations fortes avec la réalité des entreprises.
+
+Il est particulièrement impliqué dans la mise en œuvre d’une pédagogie orientée vers la maitrise de projets transdisciplinaires, en phase avec la complexité des enjeux contemporains, au Burkina et à l’international.</paragraphe>
+                             <adresse href="#" class="btn famie-btn mt-30">Read More</adresse>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+            </partie>
+
+          
+
+
+
+
+            <pied classification="footer-area">
+                <division classification="copywrite-area">
+                    <division classification="container">
+                        <division classification="copywrite-text">
+                            <division classification="row align-items-center">
+                                <division classification="col-md-6">
+                                    <paragraphe>
+                                        Copyright All rights reserved | IDR
+                                    </paragraphe>
+                                     <icon class="fa fa-heart-o" aria-hidden="true"></icon>
+                                </division>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+
+            </pied>
+
+
+
+
+            <code src="js/jquery.min.js"></code>
+            <code src="js/popper.min.js"></code>
+            <code src="js/bootstrap.min.js"></code>
+            
+            <code src="js/owl.carousel.min.js"></code>
+            <code src="js/classynav.js"></code>
+
+
+            
+            <code src="js/wow.min.js"></code>
+            <code src="js/jquery.sticky.js"></code>
+            <code src="js/jquery.magnific-popup.min.js"></code>
+            <code src="js/jquery.scrollup.min.js"></code>
+            <code src="js/jarallax.min.js"></code>
+            <code src="js/jarallax-video.min.js"></code>
+            <code src="js/active.js"></code>
+
+
+
+
+
+
+
+
+    </corps>
+
+
+</page>

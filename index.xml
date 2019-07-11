@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<page>
+	<entete>
+    <titre>Institut de developpement rural</titre>
+    <lien type="stylesheet">style.css</lien>
+    <lien type="icon">img/core-img/favicon.ico</lien>
+    </entete>
+    <corps>
+    	
+    		<division classification="preloader d-flex align-items-center justify-content-center">
+    			<division classification="spinner"></division>
+    		</division>
+ 
+    		<tete classification="header-area">
+    		
+
+            	<division classification="top-header-area">
+    				<division classification="container">
+	    				<division classification="row">
+		    				<division classification="col-12">
+		    					<division classification="top-header-content d-flex align-items-center justify-content-between">
+		    						<division classification="top-header-meta">
+		    							<paragraphe>Welcome to <emphase>Farmie</emphase>, we hope you will enjoy our products and have good experience</paragraphe>
+		    							<division classification="top-header-meta text-right">
+		    							<adress><icon type="fa fa-envelope-o" aria-hidden="true" ></icon><emphase>Email: idr@univ-bobo.bf</emphase></adress>
+		    							<adress><icon type="fa fa-phone" aria-hidden="true"></icon><emphase>+226 20 97 55 10</emphase></adress>
+		    							<adress></adress>
+		    							</division>			
+		    						</division>		
+		    					</division>			
+		    				</division>	
+	    				</division>	
+    				</division>
+    			</division>
+    		    <division classification="famie-main-menu">
+                    <division classification="classy-nav-container breakpoint-off">
+                        <division classification="container">
+                            <bar classification="classy-navbar justify-content-between" identification="famieNav">
+                                <adresse href="index.xml" classification="nav-brand"><!-- <image src="img/core-img/logo.png" alt=""/> -->IDR</adresse>
+                                <division classification="classy-navbar-toggler">
+                                    <emphase classification=""></emphase>
+                                </division>
+                                <division classification="classy-menu">
+                                    <division classification="classycloseIcon">
+                                        <division classification="cross-wrap">
+                                            <emphase classification="top"></emphase>
+                                            <emphase classification="bottom"></emphase>
+                                        </division>
+                                    </division>
+                                    <division classification="classynav">
+                                    <lu>
+                                        <il classification="active">
+                                            <adresse href="index.xml">Accueil</adresse>
+                                        </il>                                        
+                                        <il>
+                                            <adresse href="enseignants.xml">Les enseignants</adresse>
+                                        </il>
+                                        <il>
+                                            <adresse href="filieres.xml">Nos filières</adresse>
+                                        </il>
+                                        
+                                        <il>
+                                            <adresse href="contact.xml">Nous Concatez</adresse>
+                                        </il>
+                                        
+                                    </lu>                                        
+                                    <divisionid identification="searchIcon"><icon classification="icon_search"></icon></divisionid>
+                                    </division>
+                                </division>
+                            </bar>
+                        <division classification="search-form">
+                            <formulaire action="#" methode="POST">
+                                <entree type="search" name="search" identification="search" placeholder="Tapez les mots à chercher"></entree>
+                            </formulaire>
+                        
+                            <division classification="closeIcon"><icon classification="fa fa-times"></icon></division>
+                        </division>
+                        </division>
+                    </division>
+                </division>
+            </tete>
+            <!-- <division classification="hero-area">
+                <division classification="welcome-slides owl-carousel">
+                    
+
+                    <divisionstyle classification="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/39.jpg);">
+                        <division classification="container h-100">
+                            <division classification="row h-100 align-items-center">
+                                <division classification="col-12 col-lg-10">
+                                    <division classification="welcome-content">
+                                        <titre2 data-animation="fadeInUp" data-delay="200ms">L'agriculture en Afrique, vecteur de croissance</titre2>
+                                        <paragraphe data-animation="fadeInUp" data-delay="400ms">Après des dizaines d'années de stagnation économique et alors que le nombre de sous-alimentés chroniques atteint les 200 millions, les dirigeants africains intensifient leurs efforts pour trouver des "solutions durables" à la famine et la pauvreté</paragraphe>
+                                        <adresse href="#" class="btn famie-btn mt-4" data-animation="bounceInUp" data-delay="600ms"></adresse>
+                                    </division>
+                                </division>
+                            </division>
+                        </division>
+                    </divisionstyle>
+                    
+                    <divisionstyle classification="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/39.jpg);">
+                        <division classification="container h-100">
+                            <division classification="row h-100 align-items-center">
+                                <division classification="col-12 col-lg-10">
+                                    <division classification="welcome-content">
+                                        <titre2 data-animation="fadeInUp" data-delay="200ms">L'agriculture en Afrique, vecteur de croissance</titre2>
+                                        <paragraphe data-animation="fadeInUp" data-delay="400ms">Après des dizaines d'années de stagnation économique et alors que le nombre de sous-alimentés chroniques atteint les 200 millions, les dirigeants africains intensifient leurs efforts pour trouver des "solutions durables" à la famine et la pauvreté</paragraphe>
+                                        <adresse href="#" class="btn famie-btn mt-4" data-animation="bounceInUp" data-delay="600ms"></adresse>
+                                    </division>
+                                </division>
+                            </division>
+                        </division>
+                    </divisionstyle>
+
+                </division>
+            </division> -->
+
+            <partie classification="famie-benefits-area section-padding-100-0 pb-5">
+                <division classification="container">
+                
+
+
+                    <division classification="row">
+                        <division classification="col-12">
+                            <division classification="benefits-thumbnail mb-50">
+                                <image src="img/bg-img/41.jpg"/>
+                            </division>
+                        </division>
+                    </division>
+                
+                    <division classification="row justify-content-center">
+                    
+                        <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/windmill.png" alt=""/>
+                                <titre5>Elevage</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                        <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/digger.png" alt=""/>
+                                <titre5>Les arts de l'agriculture</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/cereals.png" alt=""/>
+                                <titre5>Les techniques de recoltes</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    <division classification="col-12 col-sm-4 col-lg">
+                            <divisiondelay classification="single-benefits-area wow fadeInUp mb-50" data-wow-delay="100ms">
+                                <image src="img/core-img/tractor.png" alt=""/>
+                                <titre5>Agriculture mecanisée</titre5>
+                            </divisiondelay>
+                        </division>
+                    
+                    </division>
+
+
+
+                </division>
+            </partie>
+
+
+
+            <partie classification="about-us-area">
+                <division classification="container">
+                    <division classification="row align-items-center">
+                        <division classification="col-12 col-md-8">
+                            <division classification="about-us-content mb-100">
+                                <division classification="section-heading">
+                                    <paragraphe>About us</paragraphe>
+                                    <titre2><emphase>IDR</emphase> Description</titre2>
+                                    <image src="img/core-img/decor.png" alt=""/>
+                                    
+                                </division>
+                                <paragraphe>L’Institut du Développement Rural (IDR) est issu de l’Institut Supérieur Polytechnique (ISP) créé en 1973 à l’Université de Ouagadougou pour former en 5 ans des Ingénieurs de Développement Rural (IDR) dans trois options : Agronomie, Elevage et Eaux et Forêts. En 1979, une seconde filière fut créée pour la formation en trois ans d’Ingénieurs des Techniques du Développement Rural (ITDR) dans les mêmes options. Mais cette dernière a été supprimée en 1989.
+En 1995 l’IDR a été transféré à l’Université Polytechnique de Bobo-Dioulasso. Depuis l’IDR a diversifié ses formations par la création :</paragraphe>
+                             <adresse href="#" class="btn famie-btn mt-30">Read More</adresse>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+            </partie>
+            
+
+            <partie classification="news-area bg-gray section-padding-100-0">
+                <division classification="contianer">
+                    <division classification="row">
+                        
+                        <division classification="col-12 col-lg-6">
+                            <divisiondelay classification="featured-post-area mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                <image src="img/bg-img/17.jpg" alt=""/>
+
+                                <division classification="post-content">
+                                    <titre6>Post on <adresse href="#">18 Aug 2018</adresse> / <adresse href="#">Carlos Bacca</adresse></titre6>
+              <adresse href="#" class="post-title">Why innovation is key to maintaining our export market share</adresse>
+                                </division>
+
+
+
+                            </divisiondelay>
+                        </division>
+                        <division classification="col-12 col-lg-6 mb-100">
+                                <divisiondelay class="single-blog-area style-2 wow fadeInUp" data-wow-delay="300ms">
+                                <division classification="post-content">
+                                    <adresse classification="post-title">Les Tics amorceurs d'une revolution agricole</adresse>
+                                    <paragraphe>
+                                        Les technologies de l’information et de la communication (TIC) peuvent jouer un rôle essentiel en améliorant les revenus des petits producteurs et d’autres acteurs du secteur agroalimentaire. Elles offrent également l’accès à des moyens de subsistance aux jeunes qui sont capables de développer des solutions de haute technologie.
+
+Dans le cadre de la poursuite de ses efforts de promotion de l’entrepreneuriat des jeunes et des TIC, le CTA a organisé une série d’événements lors du Forum 2016 du Sommet mondial sur la société de l’information (SMSI) qui s’est tenu à Genève, en Suisse. Il s’agit de la plus grande réunion annuelle de la communauté des TIC au service du développement.
+
+Dans de nombreux pays en développement, les jeunes se révèlent de plus en plus aptes à concevoir des applications TIC pour le renforcement des systèmes agroalimentaires. En partenariat avec l’Union internationale des télécommunications (UIT), le CTA a présenté quelques-unes de ces innovations prometteuses et animé des débats sur la façon d’encourager les jeunes à s’intéresser au secteur agricole et à apporter des solutions aux problèmes qu’il rencontre.
+
+Lors du Forum 2016 du SMSI, un événement « Plug et Play » a permis aux visiteurs de découvrir toute une série de plateformes TIC et d’assurer en même temps la visibilité des jeunes entrepreneurs qui les ont conçues. La séance a suivi le modèle Plug et Play — une réussite — lancé par le CTA en 2013. Ce modèle est utilisé aux quatre coins du monde pour mettre en avant les possibilités offertes par une vaste gamme de technologies conçues pour améliorer les pratiques à différents stades des chaînes de valeur agricoles.
+
+Les participants ont été encouragés à essayer les dernières applications mobiles et web et à découvrir ainsi comment ils pourraient utiliser ces outils dans leurs activités agricoles. Ils ont aussi eu l’occasion de s’entretenir avec des développeurs, qui ont eu chacun 15 minutes pour présenter leur application au public. Plusieurs TIC innovantes ont été présentées durant ce « Plug et Play » : AgroCentral, une plateforme basée sur le cloud qui met en contact des entreprises agroalimentaires et leurs fournisseurs ; FarmDrive, qui améliore l’accès au crédit pour les petits exploitants ; MOBIS, un logiciel bancaire destiné aux coopératives d’épargne et de crédit ; Musoni, un système de centralisation bancaire ; et enfin, CropGuard et PEAT, deux applications qui aident les agriculteurs à identifier les phytopathogènes, à diagnostiquer les carences nutritionnelles et à y remédier. Certaines de ces innovations ont été développées dans le cadre des activités d’hackaton et d’incubation du CTA — AgriHack Talent.
+                                    </paragraphe>
+                                </division>
+                                </divisiondelay>
+
+
+                        </division>
+
+                    </division>
+                </division>
+
+            </partie>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <pied classification="footer-area">
+                <division classification="copywrite-area">
+                    <division classification="container">
+                        <division classification="copywrite-text">
+                            <division classification="row align-items-center">
+                                <division classification="col-md-6">
+                                    <paragraphe>
+                                        Copyright All rights reserved | IDR
+                                    
+                                    </paragraphe>
+                                     <icon class="fa fa-heart-o" aria-hidden="true"></icon>
+                                </division>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+
+            </pied>
+
+            <code src="js/jquery.min.js"></code>
+            <code src="js/popper.min.js"></code>
+            <code src="js/bootstrap.min.js"></code>
+            <code src="js/owl.carousel.min.js"></code>
+            <code src="js/classynav.js"></code>
+            <code src="js/wow.min.js"></code>
+            <code src="js/jquery.sticky.js"></code>
+            <code src="js/jquery.magnific-popup.min.js"></code>
+            <code src="js/jquery.scrollup.min.js"></code>
+            <code src="js/jarallax.min.js"></code>
+            <code src="js/jarallax-video.min.js"></code>
+            <code src="js/active.js"></code>
+
+    </corps>
+
+
+</page>

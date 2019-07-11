@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<page>
+	<entete>
+    <titre>Institut de developpement rural</titre>
+    <lien type="stylesheet">style.css</lien>
+    <lien type="icon">img/core-img/favicon.ico</lien>
+    </entete>
+    <corps>
+    	
+    		<!-- <division classification="preloader d-flex align-items-center justify-content-center">
+    			<division classification="spinner"></division>
+    		</division>
+ -->
+    		<tete classification="header-area">
+    		
+
+            	<division classification="top-header-area">
+    				<division classification="container">
+	    				<division classification="row">
+		    				<division classification="col-12">
+		    					<division classification="top-header-content d-flex align-items-center justify-content-between">
+		    						<division classification="top-header-meta">
+		    							<paragraphe>Welcome to <emphase>Farmie</emphase>, we hope you will enjoy our products and have good experience</paragraphe>
+		    							<division classification="top-header-meta text-right">
+		    							<adress><icon type="fa fa-envelope-o" aria-hidden="true" ></icon><emphase>Email: idr@univ-bobo.bf</emphase></adress>
+		    							<adress><icon type="fa fa-phone" aria-hidden="true"></icon><emphase>+226 20 97 55 10</emphase></adress>
+		    							<adress></adress>
+		    							</division>			
+		    						</division>		
+		    					</division>			
+		    				</division>	
+	    				</division>	
+    				</division>
+    			</division>
+    		    <division classification="famie-main-menu">
+                    <division classification="classy-nav-container breakpoint-off">
+                        <division classification="container">
+                            <bar classification="classy-navbar justify-content-between" identification="famieNav">
+                                <adresse href="index.xml" classification="nav-brand"><!-- <image src="img/core-img/logo.png" alt=""/> -->IDR</adresse>
+                                <division classification="classy-navbar-toggler">
+                                    <emphase classification=""></emphase>
+                                </division>
+                                <division classification="classy-menu">
+                                    <division classification="classycloseIcon">
+                                        <division classification="cross-wrap">
+                                            <emphase classification="top"></emphase>
+                                            <emphase classification="bottom"></emphase>
+                                        </division>
+                                    </division>
+                                    <division classification="classynav">
+                                    <lu>
+                                        <il >
+                                            <adresse href="index.xml">Accueil</adresse>
+                                        </il>                                        
+                                        <il >
+                                            <adresse href="enseignants.xml">Les enseignants</adresse>
+                                        </il>
+                                        <il classification="active">
+                                            <adresse href="filieres.xml">Nos filières</adresse>
+                                        </il>
+                                        
+                                        <il>
+                                            <adresse href="contact.xml">Nous Concatez</adresse>
+                                        </il>
+                                        
+                                    </lu>                                        
+                                    <division identification="searchIcon"><icon classification="icon_search"></icon></division>
+                                    </division>
+                                </division>
+                            </bar>
+                        <division classification="search-form">
+                            <formulaire action="#" methode="POST">
+                                <entree type="search" name="search" identification="search" placeholder="Tapez les mots à chercher"></entree>
+                            </formulaire>
+                        
+                            <division classification="closeIcon"><icon classification="fa fa-times"></icon></division>
+                        </division>
+                        </division>
+                    </division>
+                </division>
+            </tete>
+
+<divisionstyle classification="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('img/bg-img/3.jpg');">
+                <division classification="container h-100">
+                    <division classification="row h-100 align-items-center">
+                        <division classification="col-12">
+                            <division classification="breadcrumb-text">
+                                <titre2>Nos filirers</titre2>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+            </divisionstyle>
+            
+
+
+          
+<partie classification="about-us-area">
+    <division classification="container">
+      <division classification="row align-items-center">
+
+        <!-- About Us Content -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-content mb-100">
+            <!-- Section Heading -->
+            <division classification="section-heading">
+              <paragraphe>Capacité: 60</paragraphe>
+
+              <titre2><emphase>Spécialisation</emphase> en Agriculture </titre2>
+              <image src="img/core-img/decor.png" alt=""/>
+            </division>
+            <paragraphe>Passionné de nature, doté d'une solide formation technique et assisté d'outils informatisés, l'exploitant agricole est un véritable chef d'entreprise, qu'il produise des céréales, des légumes, des fruits, du lait ou de la viande... Autres dénominations : Régisseur, Adjoint au chef d’exploitation, Second d’exploitation</paragraphe>
+<!--             <adresse href="#" classification="btn famie-btn mt-30">Read More</adresse>
+ -->          </division>
+        </division>
+
+        <!-- Famie Video Play -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-thumbnail mb-100">
+            <image src="img/bg-img/44.jpg" alt=""/>
+          </division>
+        </division>
+
+      </division>
+    </division>
+  </partie>
+
+
+          
+<partie classification="about-us-area">
+    <division classification="container">
+      <division classification="row align-items-center">
+
+        <!-- About Us Content -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-content mb-100">
+            <!-- Section Heading -->
+            <division classification="section-heading">
+              <paragraphe>Capacité: 60</paragraphe>
+              <titre2><emphase>Spécialisation</emphase> en elevage </titre2>
+              <image src="img/core-img/decor.png" alt=""/>
+            </division>
+            <paragraphe>Un éleveur veille à la santé, au développement et à la reproduction des animaux dont il a la charge. Selon l'espèce animale élevée (mouton, poisson, vache, chien, vison, etc.), ce métier concerne différents secteurs d'activité. L'éleveur tient notamment un rôle primordial dans le secteur de l'agriculture. </paragraphe>
+           <!--  <adresse href="#" classification="btn famie-btn mt-30">Read More</adresse> -->
+          </division>
+        </division>
+
+        <!-- Famie Video Play -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-thumbnail mb-100">
+            <image src="img/bg-img/9.jpg" alt=""/>
+          </division>
+        </division>
+
+      </division>
+    </division>
+  </partie>
+
+
+          
+<partie classification="about-us-area">
+    <division classification="container">
+      <division classification="row align-items-center">
+
+        <!-- About Us Content -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-content mb-100">
+            <!-- Section Heading -->
+            <division classification="section-heading">
+              <paragraphe>Capacité: 60</paragraphe>
+              <titre2><emphase>Spécialisation</emphase> en pisiculture   </titre2>
+              <image src="img/core-img/decor.png" alt=""/>
+            </division>
+            <paragraphe>Une formation en aquaculture (élevage des animaux aquatiques) permet d'étudier la pisciculture (élevage des poissons).  </paragraphe>
+           <!--  <adresse href="#" classification="btn famie-btn mt-30">Read More</adresse> -->
+          </division>
+        </division>
+
+        <!-- Famie Video Play -->
+        <division classification="col-12 col-lg-6">
+          <division classification="about-us-thumbnail mb-100">
+            <image src="img/bg-img/47.jpg" alt=""/>
+          </division>
+        </division>
+
+      </division>
+    </division>
+  </partie>
+
+
+
+
+
+
+
+
+            <pied classification="footer-area">
+                <division classification="copywrite-area">
+                    <division classification="container">
+                        <division classification="copywrite-text">
+                            <division classification="row align-items-center">
+                                <division classification="col-md-6">
+                                    <paragraphe>
+                                        Copyright All rights reserved | IDR
+                                    </paragraphe>
+                                     <icon class="fa fa-heart-o" aria-hidden="true"></icon>
+                                </division>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+
+            </pied>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <code src="js/jquery.min.js"></code>
+            <code src="js/popper.min.js"></code>
+            <code src="js/bootstrap.min.js"></code>
+            
+            <code src="js/owl.carousel.min.js"></code>
+            <code src="js/classynav.js"></code>
+
+
+            
+            <code src="js/wow.min.js"></code>
+            <code src="js/jquery.sticky.js"></code>
+            <code src="js/jquery.magnific-popup.min.js"></code>
+            <code src="js/jquery.scrollup.min.js"></code>
+            <code src="js/jarallax.min.js"></code>
+            <code src="js/jarallax-video.min.js"></code>
+            <code src="js/active.js"></code>
+
+
+
+
+
+
+
+
+    </corps>
+
+
+</page>

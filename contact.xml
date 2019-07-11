@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<page>
+	<entete>
+    <titre>Institut de developpement rural</titre>
+    <lien type="stylesheet">style.css</lien>
+    <lien type="icon">img/core-img/favicon.ico</lien>
+    </entete>
+    <corps>
+    	
+    		<!-- <division classification="preloader d-flex align-items-center justify-content-center">
+    			<division classification="spinner"></division>
+    		</division>
+ -->
+    		<tete classification="header-area">
+    		
+
+            	<division classification="top-header-area">
+    				<division classification="container">
+	    				<division classification="row">
+		    				<division classification="col-12">
+		    					<division classification="top-header-content d-flex align-items-center justify-content-between">
+		    						<division classification="top-header-meta">
+		    							<paragraphe>Welcome to <emphase>Farmie</emphase>, we hope you will enjoy our products and have good experience</paragraphe>
+		    							<division classification="top-header-meta text-right">
+		    							<adress><icon type="fa fa-envelope-o" aria-hidden="true" ></icon><emphase>Email: idr@univ-bobo.bf</emphase></adress>
+		    							<adress><icon type="fa fa-phone" aria-hidden="true"></icon><emphase>+226 20 97 55 10</emphase></adress>
+		    							<adress></adress>
+		    							</division>			
+		    						</division>		
+		    					</division>			
+		    				</division>	
+	    				</division>	
+    				</division>
+    			</division>
+    		    <division classification="famie-main-menu">
+                    <division classification="classy-nav-container breakpoint-off">
+                        <division classification="container">
+                            <bar classification="classy-navbar justify-content-between" identification="famieNav">
+                                <adresse href="index.xml" classification="nav-brand"><!-- <image src="img/core-img/logo.png" alt=""/> -->IDR</adresse>
+                                <division classification="classy-navbar-toggler">
+                                    <emphase classification=""></emphase>
+                                </division>
+                                <division classification="classy-menu">
+                                    <division classification="classycloseIcon">
+                                        <division classification="cross-wrap">
+                                            <emphase classification="top"></emphase>
+                                            <emphase classification="bottom"></emphase>
+                                        </division>
+                                    </division>
+                                    <division classification="classynav">
+                                    <lu>
+                                        <il >
+                                            <adresse href="index.xml">Accueil</adresse>
+                                        </il>                                        
+                                        <il>
+                                            <adresse href="enseignants.xml">Les enseignants</adresse>
+                                        </il>
+                                        <il>
+                                            <adresse href="filieres.xml">Nos filières</adresse>
+                                        </il>
+                                        
+                                        <il classification="active">
+                                            <adresse href="contact.xml">Nous Concatez</adresse>
+                                        </il>
+                                        
+                                    </lu>                                        
+                                    <division identification="searchIcon"><icon classification="icon_search"></icon></division>
+                                    </division>
+                                </division>
+                            </bar>
+                        <division classification="search-form">
+                            <formulaire action="#" methode="POST">
+                                <entree type="search" name="search" identification="search" placeholder="Tapez les mots à chercher"></entree>
+                            </formulaire>
+                        
+                            <division classification="closeIcon"><icon classification="fa fa-times"></icon></division>
+                        </division>
+                        </division>
+                    </division>
+                </division>
+            </tete>
+            <division classification="hero-area">
+                <division classification="welcome-slides owl-carousel">
+                    
+
+                    <division classification="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/39.jpg);">
+                        <division classification="container h-100">
+                            <division classification="row h-100 align-items-center">
+                                <division classification="col-12 col-lg-10">
+                                    <division classification="welcome-content">
+                                        <titre2 data-animation="fadeInUp" data-delay="200ms">L'agriculture en Afrique, vecteur de croissance</titre2>
+                                        <paragraphe data-animation="fadeInUp" data-delay="400ms">Après des dizaines d'années de stagnation économique et alors que le nombre de sous-alimentés chroniques atteint les 200 millions, les dirigeants africains intensifient leurs efforts pour trouver des "solutions durables" à la famine et la pauvreté</paragraphe>
+                                        <adresse href="#" class="btn famie-btn mt-4" data-animation="bounceInUp" data-delay="600ms"></adresse>
+                                    </division>
+                                </division>
+                            </division>
+                        </division>
+                    </division>
+
+                </division>
+            </division>
+
+
+
+
+            <divisionstyle classification="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('img/bg-img/18.jpg');">
+                <division classification="container h-100">
+                    <division classification="row h-100 align-items-center">
+                        <division classification="col-12">
+                            <division classification="breadcrumb-text">
+                                <titre2>Nous Contactez</titre2>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+            </divisionstyle>
+
+            <division classification="famie-breadcrumb">
+                <division classification="container">
+                    <barriere aria-label="breadcrumb">
+                        <lo>
+                            <ile classification="breadcrumb-item">
+                                <adresse href="#">Home</adresse>
+                            </ile>
+                            <ile classification="breadcrumb-item active" aria-current="page">Contact</ile>
+                        </lo>
+                    </barriere>
+                </division>
+            </division>
+            <partie classification="contact-info-area">
+                <division classification="container">
+                    
+                    <division classification="row">
+                        <division classification="col-12">
+                           
+                            <division classification="section-heading text-center">
+                                <paragraphe>CONTACT INFO</paragraphe>
+                                <titre2>Nous contactez pour tout aide</titre2>
+            <image src="img/core-img/decor2.png" alt=""/>
+                            </division>
+
+                        </division>
+                        
+                    </division>
+
+                    <division classification="row">
+                        
+
+
+                        <!-- <division classification="col-12 col-md-4">
+                            <division class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="100ms">
+                                <division classification="contact-icon">
+                                    <icon classification="icon_pin_alt"></icon>
+                                </division>
+                            <titre5>Adresse</titre5>
+                            <titre6>Nasso, Province du Houet, Région des Hauts Bassins</titre6>
+
+                            </division>
+                        </division> -->
+                    
+
+                        <division classification="col-12 col-md-4">
+                        <divisiondelay classification="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+                            <division classification="contact-icon">
+                                <icon classification="icon_phone"></icon>
+                            </division>
+                            <titre5>Localisation</titre5>
+                            <titre6>Nasso, Bobo Dioulasso Burkina Faso</titre6>
+                        </divisiondelay>
+                        </division>
+                    
+                    <division classification="col-12 col-md-4">
+                        <divisiondelay classification="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+                            <division classification="contact-icon">
+                                <icon classification="icon_phone"></icon>
+                            </division>
+                            <titre5>Phone</titre5>
+                            <titre6>+226 2097 48 80</titre6>
+                        </divisiondelay>
+                        </division>
+
+
+                    <division classification="col-12 col-md-4">
+                        <divisiondelay classification="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="1000ms">
+                        <division classification="contact-icon">
+                        <i classification="icon_mail_alt"></i>
+                        </division>
+                        <titre5>Email</titre5>
+                        <titre6>idr@univ-bobo.bf</titre6>
+                      </divisiondelay>
+                    </division>
+
+                    </division>
+
+
+                    <division classification="c-border"></division>
+                </division>
+
+            </partie>
+             <partie classification="contact-area bg-gray section-padding-100-0">
+                <division classification="container">
+                    <division classification="row-align-items-end">
+                        
+                            <division classification="col-12 col-lg-7">
+                                <division classification="contact-content section-padding-0-100">
+                                    <division classification="section-heading">
+                                        <paragraphe>Devinir un ingénieur agronome</paragraphe>
+                                        <image src="img/core-img/decor.png" alt=""/>
+                                    </division>
+                                <division classification="contact-form-area">
+                                    <formulaire action="" method="POST">
+                                        <division classification="row">
+                                            
+                                            <division classification="col-lg-6">
+                                                <entree type="text" class="form-control" name="name" placeholder="Votre nom"/>
+                                            </division>
+                                        
+                                            <division classification="col-lg-6">
+                                                <entree type="text" class="form-control" name="email" placeholder="Votre email"/>
+                                            </division>
+                                        
+
+                                            <division classification="col-12">
+                                                <entree type="text" class="form-control" name="name" placeholder="Votre Sujet"/>
+                                            </division>
+                                        
+                                            <division classification="col-12">
+                                               <entreetext name="message" classification="form-control" cols="30" rows="10" placeholder="Your Message"></entreetext>
+                                            </division>
+                                            <division classification="col-12">
+                                                <touche type="submit" classification="btn famie-btn">Envoyer Message</touche>
+                  </division>
+                                        </division>
+                                    </formulaire>
+                                </division>
+
+
+                                </division>
+                            </division>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </division>
+                </division>
+            </partie>
+
+
+
+ <pied classification="footer-area">
+                <division classification="copywrite-area">
+                    <division classification="container">
+                        <division classification="copywrite-text">
+                            <division classification="row align-items-center">
+                                <division classification="col-md-6">
+                                    <paragraphe>
+                                        Copyright All rights reserved | IDR
+                                    
+                                    </paragraphe>
+                                     <icon class="fa fa-heart-o" aria-hidden="true"></icon>
+                                </division>
+                            </division>
+                        </division>
+                    </division>
+                </division>
+
+            </pied>
+
+    </corps>
+
+
+</page>
